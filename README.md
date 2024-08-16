@@ -1,3 +1,1 @@
-# Autor : Rodrigo Ortiz
-# Curso: Talento Tech
-# Manejo de NTFs
+Manejo de imagenes utilizando NFTs
